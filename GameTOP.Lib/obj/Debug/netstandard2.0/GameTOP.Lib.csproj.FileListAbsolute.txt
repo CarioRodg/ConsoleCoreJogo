@@ -1,0 +1,12 @@
+C:\dev\Angular\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.deps.json
+C:\dev\Angular\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.dll
+C:\dev\Angular\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.pdb
+C:\dev\Angular\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\dev\Angular\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+C:\dev\Angular\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csprojAssemblyReference.cache
+C:\dev\Angular\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.AssemblyInfoInputs.cache
+C:\dev\Angular\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.AssemblyInfo.cs
+C:\dev\Angular\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csproj.CoreCompileInputs.cache
+C:\dev\Angular\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csproj.CopyComplete
+C:\dev\Angular\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.dll
+C:\dev\Angular\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.pdb
